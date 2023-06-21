@@ -1,4 +1,4 @@
-theme: architect
+theme: cayman
 # Vanessa Vu
 ## Projects
 
