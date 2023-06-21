@@ -1,4 +1,4 @@
 # vanessavu
-Vanessa Vu
-
-vtvvu@ucdavis.edu
+gem "minimal-mistakes-jekyll"
+bundle
+theme: minimal-mistakes-jekyll
